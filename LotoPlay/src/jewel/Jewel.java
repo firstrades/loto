@@ -10,6 +10,7 @@ public class Jewel {
 		System.out.println("Skypoint2");
 		
 		System.out.println("Skypoint3");
+		System.out.println("RockZzzzzzzz");
 		
 	}
 
