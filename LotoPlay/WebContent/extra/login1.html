@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Lotari</title>
+<link type="text/css" href="css/style.css" rel="stylesheet" />
+
+</head>
+
+<body>
+<div class="wrapper">
+<div class="main_div" style="background-color: #99e0f8;    border: 3px solid #91CEE2;">
+<table width="100%" cellpadding="0" cellspacing="0" style="margin-left:68px;">
+<tbody>
+<tr>
+<td style="width:22%;"> LOGO  </td>
+<td style="width:34%;"> <p style="float:left;"> Date :- </p> <p id="demo" style="float:left;font-size: 14px; color: #FF0000;    font-weight: bold;
+">  </p>   <script>
+var d = new Date();
+document.getElementById("demo").innerHTML = d.toDateString();
+
+</script> </td>
+  
+    
+</tr>
+
+</tbody>
+</table>
+
+<div class="middel" style="border-top: 1px solid #00aadc;">
+
+<div id="login">
+		
+	
+<form name="loginform" id="loginform" action="" method="post">
+	<p>
+		<label for="user_login">Email or Username<br>
+		<input type="text" name="log" id="user_login" class="input" value="" size="20"></label>
+	</p>
+	<p>
+		<label for="user_pass">Password<br>
+		<input type="password" name="pwd" id="user_pass" class="input" value="" size="20"></label>
+	</p>
+		<p class="forgetmenot"><label for="rememberme"><input name="rememberme" type="checkbox" id="rememberme" value="forever" checked="checked"> Stay signed in</label></p>
+	<p class="submit">
+		<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Log In">
+		
+	</p>
+</form>
+
+<p id="nav">
+<a class="click-register" href="#">Register</a> | 	<a href="#" title="Password Lost and Found">Lost your password?</a>
+</p>
+
+
+
+	
+	</div>
+</div>
+
+</body>
+</html>
