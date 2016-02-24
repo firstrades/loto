@@ -10,7 +10,7 @@ public class Jewel {
 		System.out.println("Jai_SRI_RAM");
 		System.out.println("Skypoint3");
 		
-		System.out.println("Jewel 332");
+		System.out.println("Changed in Jewel");
 		
 		
 	}
