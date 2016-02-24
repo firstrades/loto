@@ -6,6 +6,8 @@ public class Soumya {
 		System.out.println("PAKISTAN WIN");
 		System.out.println("AUS");
 		System.out.println("ZIM");
+		
+		System.out.println("Changed in Soumya");
 	}
 
 }
