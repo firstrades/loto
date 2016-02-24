@@ -11,7 +11,7 @@ public class Jewel {
 		System.out.println("Skypoint3");
 		
 		System.out.println("Changed in Jewel");
-		
+		System.out.println("JEWEL Da is Great");
 		
 	}
 
