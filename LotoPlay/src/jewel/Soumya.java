@@ -7,8 +7,6 @@ public class Soumya {
 		System.out.println("AUS");
 		System.out.println("ZIM");
 		
-		System.out.println("Changed in Soumya");
-		System.out.println("Soumya ECOmm");
 	}
 
 }
