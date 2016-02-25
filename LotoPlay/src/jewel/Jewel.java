@@ -7,10 +7,12 @@ public class Jewel {
 		System.out.println("Jewel da don't know anything.");
 
 		System.out.println("Hellow World!");
-		
 		System.out.println("Hellow World 1!");
 		
 		System.out.println("Hellow World 2!");
+
+
+		System.out.println("This is the high time to complete the e-commerce project!");
 
 	}
 
