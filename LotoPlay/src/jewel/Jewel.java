@@ -8,6 +8,7 @@ public class Jewel {
 
 		System.out.println("Hellow World!");
 
+		System.out.println("This is the high time to complete the e-commerce project!");
 	}
 
 }
